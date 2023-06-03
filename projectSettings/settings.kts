@@ -85,7 +85,7 @@ object HttpsGithubComruzina-0607ExampleTeamcityRefsHeadsMaster : GitVcsRoot({
     branch = "refs/heads/master"
     branchSpec = "refs/heads/*"
     authMethod = password {
-        userName = "ruzina"
+        userName = "ruzina-0607"
         password = "sdf2ea09397475b7eb534t32d67b91649ae72ba46a4d5fe72ba"
     }
 })
